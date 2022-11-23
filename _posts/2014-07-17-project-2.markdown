@@ -4,7 +4,6 @@ modal-id: 2
 date: 2014-07-17
 img: androidstudio.png
 alt: image-alt
-<<<<<<< HEAD
 project-date: Apr - Jun 2020
 client: Android Studio
 category: Mobile App Development&nbsp(Kotlin)
