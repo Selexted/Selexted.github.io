@@ -12,6 +12,6 @@ description: 학교학생들을 위한 혼밥전용 안드로이드 앱
 
 Firebase를 통한 채팅 구현 (현재는 DB오류로 작동불가)
 채팅기능 프론트, 백 담당
-로그인 관련 DB 담당
-시현영상) <a>https://drive.google.com/file/d/1Y9v-bXnisJiTexjPNZ7SPnmkFmOBX8ci/view?usp=sharing</a>
+로그인 관련 DB 담
+시현영상) https://drive.google.com/file/d/1Y9v-bXnisJiTexjPNZ7SPnmkFmOBX8ci/view?usp=sharing
 ---
