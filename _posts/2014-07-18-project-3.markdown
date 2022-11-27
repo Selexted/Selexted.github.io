@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: html.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: <h1>Bounce King</h1><br><h4>별도의 클라이언트 설치 절차를 거치지 않고 웹 브라우저 상에서 플레이할 수 있는 브라우저 게임(Browser game)</h4><h4>HTML,JS,CSS를 활용하여 점프킹을 오마주한 벽돌깨기<br><br><br><hr></h4><br><h3>✔ 주요 기능</h3><br><h4>•  캔버스(Canvas)를 활용한 벽돌깨기<br><br>• 메뉴의 설정을 통한 다양한 게임설정 변경<br><h5>- 벽돌 디자인 변경<br><br>- 난이도 변경<br><br>- BGM의 설정 변경<br></h5><br><h3>✔ 담당 파트</h3><br><h4>◉    프로젝트 전체 구조 설계<br><br>◉  벽돌깨기 게임의 JavaScript 구현<br><br>◉    내부 디자인 설정<br><br><br><hr><a href="https://github.com/Selexted/Jump-King.git" target="_blank" >Git</a>&nbsp&nbsp&nbsp&nbsp<a href="https://drive.google.com/file/d/1Tn_KfEvNi0wxJRqB9v_yStAHzZcZLhhT/view?usp=sharing" target="_blank" >Demo</a><br></h4><hr>
+---
