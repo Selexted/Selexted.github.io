@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-21
+img: react.png
+alt: image-alt
+project-date: Sep - Dec 2022
+client: Visual Studio Code
+category: Web Development(React.js)
+description: <h1>YOJO</h1><br><h4> 딥러닝 기반 자세 인식 모델을 통한 요가 자세 피드백 서비스<br><br> 사진 업로드하여서 사용자의 자세 이미지를 입력 받아 사용자가 얼마나 자세를 올바르게 취하였는지 점수를 제공한다. 이미지의 입력 방법은 사진 업로드와 웹캠을 통한 실시간 사진 촬영을 통하여 진행된다.<br><br><br><hr></h4><br><h3>✔ 주요 기능</h3><br><h4>•   웹캠을 이용한 사진 촬영 및 이미지 업로드<br><br>• AlphaPose를 활용한 요가 자세 평가<br><br></h4><br><h3>✔ 담당 파트</h3><br><h4>◉    React를 이용한 전체 웹 페이지 디자인 및 구현<br><br>◉  서버와 통신을 위한 axios 구현<br><br><br><h3>✔ 스크린샷 <img src="img/portfolio2/Yojo.JPG" class="img-responsive img-centered" alt="{{ post.alt }}"></h3><br><h4><br><br><br><hr><a href="https://github.com/Selexted/YOJO-front.git" target="_blank" >Git_Front</a>&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/Selexted/YOJO-back.git" target="_blank" >Git_Back</a>&nbsp&nbsp&nbsp&nbsp<a href="https://www.youtube.com/watch?v=owhRohe_vo0" target="_blank" >Demo</a><br></h4><hr>
+
+---
